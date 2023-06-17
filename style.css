@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+  }
+  .container {
+    padding: -1px 0;
+  }  
+  .marker {
+    width: 30%;
+    height: 10%;
+    margin: 3% auto;
+  }
+  
+  .box {
+    width: 65%;
+    height: 35px;
+    margin-left:23%;
+    background-color: rgba(255, 255, 255, 0.35);
+    border-left: 10px double rgba(0, 0, 0,0.8);
+  }
+  
+  .red {
+    background: linear-gradient(rgb(184, 3, 3), rgba(255, 0, 0, 0.5), rgb(173, 4, 4));
+    box-shadow: black 0px 0px 30px;
+  }
+  
+  .green {
+    background: linear-gradient(#354303, #71F53E, #022c10);
+    box-shadow: black 0px 0px 30px;
+  }
+  
+  .blue {
+    background: linear-gradient(hsl(186, 89%, 11%), hsl(223, 90%, 60%), hsl(240, 83%, 16%));
+    box-shadow: black 0px 0px 30px;
+  }
+  
